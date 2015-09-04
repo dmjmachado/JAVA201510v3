@@ -1,0 +1,13 @@
+Database dbbbe025b93d324dc791f9a50801605611
+
+Database Type Microsoft SQL Server 
+Connectionstring alias (None) 
+Entity Framework metadata (None) 
+Multiple Active Result Sets False 
+Edit database configuration 
+
+Connection Options
+
+Hostname bbe025b9-3d32-4dc7-91f9-a50801605611.sqlserver.sequelizer.com
+Username rblctkirosptiwfd
+Password RdtgAgwMwbqFDYrRcDxAzCYqdfYN4yDRbJ4bAm5JPWQUiWkRA3SWDTQomdcupQR7
